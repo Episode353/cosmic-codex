@@ -1,12 +1,20 @@
 [
   
   {
-    "lat": 22.6737,
-    "lon": 310.47295,
-    "name": "Humid Haven",
-    "type": "Outpost",
+    "lat": 12.6737,
+    "lon": 240.47295,
+    "name": "Aurua",
+    "type": "City",
     "country": "",
-    "elevation": 200
+    "elevation": 1000
+  },
+  {
+    "lat": 10.6737,
+    "lon": 220.47295,
+    "name": "VanderBlight",
+    "type": "City",
+    "country": "",
+    "elevation": 1000
   }
 
 
